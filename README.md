@@ -16,7 +16,7 @@ To run the project,you will need:
 
 How to run the project:
 1.clone or download the repo to your computer.
-2.Run entertainment_center.py
+2.Run entertainment_center.py inside trailer_mini_project folder
 3.You will see a browser open with all the movie tiles.
 4.Click on the tiles to watch trailer.
 5.Enjoy
